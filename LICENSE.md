@@ -1,4 +1,4 @@
-MIT License
+MIT License 2024
 
 Copyright (c) 2024 Taiko Labs
 
